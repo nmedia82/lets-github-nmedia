@@ -8,7 +8,7 @@
  */
 
 // Set path to theme specific functions
-define( 'ACF_LITE' , true );
+define( 'ACF_LITE' , false);
 
 $includes_path = TEMPLATEPATH . '/includes/';
 // Theme specific functionality
