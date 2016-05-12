@@ -1,0 +1,4 @@
+FTP Username: booking3@creative5-hosting.com
+FTP Password : G0Dq#d,O,+]N
+FTP Server: ftp.creative5-hosting.com
+FTP & explicit FTPS port: 21
