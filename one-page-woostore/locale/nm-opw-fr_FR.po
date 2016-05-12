@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nm-opw\n"
+"POT-Creation-Date: 2015-07-02 01:09+0500\n"
+"PO-Revision-Date: 2015-07-02 01:14+0500\n"
+"Last-Translator: \n"
+"Language-Team: N-Media\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_;_e\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/admin.class.php:220 classes/admin.class.php:221
+#: classes/admin.class.php:230 classes/admin.class.php:231
+msgid " Settings"
+msgstr "Paramètres"
+
+#: classes/admin.class.php:253
+msgid "All options are updated"
+msgstr "Toutes les options sont mises à jour"
+
+#: classes/admin.class.php:293 classes/admin.class.php:305
+#: templates/admin/settings.php:32 templates/admin/settings.php:81
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: classes/admin.class.php:443
+msgid "Remove"
+msgstr "Supprimer"
+
+#: classes/plugin.class.php:590
+msgid "Select options"
+msgstr "Choix des options"
+
+#: templates/_render_shop.php:51
+msgid "Shop"
+msgstr "Service de location"
+
+#: templates/_render_shop.php:59
+msgid "Cart"
+msgstr "Soumissions"
+
+#: templates/_render_shop.php:62
+msgid "Checkout"
+msgstr "Commande"
+
+#: templates/admin/generate-shortcode.php:2
+msgid "Include or Exclude"
+msgstr "Inclure/exclure"
+
+#: templates/admin/generate-shortcode.php:5
+msgid "Include Following"
+msgstr "Incluez les éléments suivants :"
+
+#: templates/admin/generate-shortcode.php:6
+msgid "Exclude Following"
+msgstr "Exclure les éléments suivants"
+
+#: templates/admin/generate-shortcode.php:9
+msgid "Include or Exclude following categories from shop"
+msgstr "Inclure ou exclure des catégories de magasin à la suite"
+
+#: templates/admin/generate-shortcode.php:12
+msgid "Categories"
+msgstr "Catégories"
+
+#: templates/admin/generate-shortcode.php:21
+msgid "Select Categories you want to exclude or include"
+msgstr "Sélectionnez les catégories que vous souhaitez exclure ou inclure des"
+
+#: templates/admin/generate-shortcode.php:24 templates/admin/options.php:187
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: templates/admin/generate-shortcode.php:28
+msgid "Copy and use this shortcode"
+msgstr "Copier et utiliser ce shortcode"
+
+#: templates/admin/options.php:17
+msgid "Search Placeholder"
+msgstr "Recherche Placeholder"
+
+#: templates/admin/options.php:22
+msgid "Placeholder text for search input."
+msgstr "Texte d'espace réservé pour la recherche d'entrée."
+
+#: templates/admin/options.php:26
+msgid "Product Count"
+msgstr "Nombre de produits"
+
+#: templates/admin/options.php:32 templates/admin/options.php:44
+#: templates/admin/options.php:135 templates/admin/options.php:147
+msgid "Show"
+msgstr "Montrer"
+
+#: templates/admin/options.php:34
+msgid "Tick this to show products count with category names."
+msgstr "Cochez cette option pour afficher le nombre de produits avec des noms de catégorie."
+
+#: templates/admin/options.php:38
+msgid "Sticky Store Button"
+msgstr "Bouton Store collant"
+
+#: templates/admin/options.php:46
+msgid "Tick this to show sticky button for store."
+msgstr "Cochez cette option pour afficher le bouton collant pour magasin."
+
+#: templates/admin/options.php:50
+msgid "Sticky Button Text"
+msgstr "Texte du bouton collant"
+
+#: templates/admin/options.php:55
+msgid "Label for sticky button."
+msgstr "Étiquette pour bouton collant."
+
+#: templates/admin/options.php:59
+msgid "Sticky Button Url"
+msgstr "Url du bouton collant"
+
+#: templates/admin/options.php:64
+msgid "Url of that page where you used [ng-woostore]."
+msgstr "URL de cette page où vous avez utilisé [ng-woostore]."
+
+#: templates/admin/options.php:71
+msgid "Number of items in row"
+msgstr "Nombre de pièces en ligne"
+
+#: templates/admin/options.php:72
+msgid "It is background color for top bar buttons"
+msgstr "C'est la couleur d'arrière-plan pour les boutons de la barre du haut"
+
+#: templates/admin/options.php:75
+msgid "Select Columns"
+msgstr "Sélectionner les colonnes"
+
+#: templates/admin/options.php:76
+msgid "Number of columns in a row for Grid view"
+msgstr "Nombre de colonnes dans une ligne pour l'affichage de la grille"
+
+#: templates/admin/options.php:78
+msgid "2 Items"
+msgstr "2 éléments"
+
+#: templates/admin/options.php:79
+msgid "3 Items"
+msgstr "3 éléments"
+
+#: templates/admin/options.php:80
+msgid "4 Items"
+msgstr "4 éléments"
+
+#: templates/admin/options.php:81
+msgid "6 Items"
+msgstr "6 éléments"
+
+#: templates/admin/options.php:86
+msgid "Background Color (Static)"
+msgstr "Couleur d'arrière-plan (statique)"
+
+#: templates/admin/options.php:90
+msgid "Static background color for Buttons, Pagination and Count."
+msgstr "Couleur d'arrière-plan statique pour les boutons, la Pagination et Count."
+
+#: templates/admin/options.php:94
+msgid "Text Color (Static)"
+msgstr "Couleur du texte (statique)"
+
+#: templates/admin/options.php:98
+msgid "Static text color for Buttons, Pagination and Count."
+msgstr "Couleur du texte statique pour les boutons, la Pagination et Count."
+
+#: templates/admin/options.php:102
+msgid "Background Color (Hover)"
+msgstr "Couleur de fond au survol"
+
+#: templates/admin/options.php:106
+msgid "On hover background color for Buttons and Pagination."
+msgstr "Sur la couleur d'arrière-plan de pointage pour les boutons et la Pagination."
+
+#: templates/admin/options.php:110
+msgid "Text Color (Hover)"
+msgstr "Couleur de survol du texte"
+
+#: templates/admin/options.php:114
+msgid "On hover text color for Buttons and Pagination."
+msgstr "Sur la couleur du texte de pointage pour les boutons et la Pagination."
+
+#: templates/admin/options.php:129
+msgid "Checkout Button"
+msgstr "Bouton de validation :"
+
+#: templates/admin/options.php:137
+msgid "Tick this to show checkout button."
+msgstr "Cochez cette option pour afficher le bouton checkout."
+
+#: templates/admin/options.php:141
+msgid "Clear Cart Button"
+msgstr "bouton de fin de conversation"
+
+#: templates/admin/options.php:149
+msgid "Tick this to show clear cart button on Cart page."
+msgstr "Cochez cette option pour afficher le bouton de chariot clair sur la page panier."
+
+#: templates/admin/options.php:166
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: templates/admin/options.php:168
+msgid "Set options as per your need"
+msgstr "Définissez les options selon votre besoin"
+
+#: templates/admin/options.php:173
+msgid "Design and Layout"
+msgstr "Design et mise en page"
+
+#: templates/admin/options.php:175 templates/admin/options.php:182
+#: templates/admin/options.php:189
+msgid "Set message as per your need"
+msgstr "Set message selon votre besoin"
+
+#: templates/admin/options.php:180
+msgid "Cart and Checkout"
+msgstr "Panier et commander"
+
+#: templates/admin/settings.php:105
+msgid "Save settings"
+msgstr "Sauver Paramètres"
